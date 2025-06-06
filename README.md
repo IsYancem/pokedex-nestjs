@@ -18,7 +18,10 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d
 ```
-
+5. Ejecutar aplicación en local
+```
+yarn start:dev
+```
 
 ## Stack usado
 * MongoDB
