@@ -2,6 +2,10 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
+<p>
+  versión 09/06/2025
+<p>
+
 # Ejecutar en desarrollo
 
 1. Clonar el repositorio
@@ -35,3 +39,6 @@ http://localhost:3000/api/v2/seed
 ## Stack usado
 * MongoDB
 * NestJS
+
+
+
