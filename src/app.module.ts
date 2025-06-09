@@ -17,9 +17,9 @@ import { JoiValidationSchema } from './config/joi.validation';
       validationSchema: JoiValidationSchema,
     }),
 
-    ServeStaticModule.forRoot({
-      rootPath: join(__dirname, '..', 'public'),
-    }),
+    // ServeStaticModule.forRoot({
+    //   rootPath: join(__dirname, '..', 'public'),
+    // }),
 
     MongooseModule.forRoot(process.env.MONGODB!),
 
