@@ -14,7 +14,6 @@ import { ConfigService } from '@nestjs/config';
 
 @Injectable()
 export class PokemonService {
-
   private defaultLimit: number;
 
   constructor(
